@@ -1,4 +1,5 @@
-# DigitalOcean-Kubernetes-Challenge - 2021
+# Deploy a security and compliance system
+### DigitalOcean-Kubernetes-Challenge - 2021
 
 DigitalOcean launched a [Kubernetes Challenge in 2021](https://www.digitalocean.com/community/pages/kubernetes-challenge). I decided to do the following challenge:
 > Deploy a security and compliance system
